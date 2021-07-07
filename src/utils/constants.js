@@ -1,4 +1,5 @@
 export const URLS = {
   base: "/",
-  courses: "/courses"
+  courses: "/courses",
+  contacts: "/contacts"
 };
